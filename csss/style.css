@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    font-size: 45px;
+}
+
+h4 {
+    text-align: center;
+}
+
+img {
+    background-color: gold;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    color: rgb(17, 0, 255);
+    border-width: 3px;
+    width: 50%;
+}
+
+/************CLASS SELECTOR************/
+.ordinal {
+    height: 150px;
+    border: none;
+    width: 150px;
+    padding: 5%;
+}
+
+.circular{
+    border-radius: 100%;
+    height: 80px;
+    width: 80px;
+    padding: 0.5%;
+}
